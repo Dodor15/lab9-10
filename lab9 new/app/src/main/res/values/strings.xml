@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="X3">Площадь равнобедреного треугольника</string>
+    <string name="X4">Площадь Квадрата</string>
+    <string name="o360">Площадь круга</string>
+    <string name="firstNumber">Первое число</string>
+    <string name="hight">Высота</string>
+    <string name="Start">Посчитать</string>
+</resources>
